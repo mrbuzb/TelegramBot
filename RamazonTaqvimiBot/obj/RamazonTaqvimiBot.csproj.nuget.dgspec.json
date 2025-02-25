@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\RamazonTaqvimiBot\\RamazonTaqvimiBot\\RamazonTaqvimiBot.csproj": {}
+    "D:\\project\\TelegramBot\\RamazonTaqvimiBot\\RamazonTaqvimiBot.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\RamazonTaqvimiBot\\DataBaseConnection\\DataBaseConnection.csproj": {
+    "D:\\project\\TelegramBot\\DataBaseConnection\\DataBaseConnection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\RamazonTaqvimiBot\\DataBaseConnection\\DataBaseConnection.csproj",
+        "projectUniqueName": "D:\\project\\TelegramBot\\DataBaseConnection\\DataBaseConnection.csproj",
         "projectName": "DataBaseConnection",
-        "projectPath": "C:\\Users\\User\\source\\repos\\RamazonTaqvimiBot\\DataBaseConnection\\DataBaseConnection.csproj",
+        "projectPath": "D:\\project\\TelegramBot\\DataBaseConnection\\DataBaseConnection.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\RamazonTaqvimiBot\\DataBaseConnection\\obj\\",
+        "outputPath": "D:\\project\\TelegramBot\\DataBaseConnection\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -91,14 +91,14 @@
         }
       }
     },
-    "C:\\Users\\User\\source\\repos\\RamazonTaqvimiBot\\RamazonTaqvimiBot\\RamazonTaqvimiBot.csproj": {
+    "D:\\project\\TelegramBot\\RamazonTaqvimiBot\\RamazonTaqvimiBot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\RamazonTaqvimiBot\\RamazonTaqvimiBot\\RamazonTaqvimiBot.csproj",
+        "projectUniqueName": "D:\\project\\TelegramBot\\RamazonTaqvimiBot\\RamazonTaqvimiBot.csproj",
         "projectName": "RamazonTaqvimiBot",
-        "projectPath": "C:\\Users\\User\\source\\repos\\RamazonTaqvimiBot\\RamazonTaqvimiBot\\RamazonTaqvimiBot.csproj",
+        "projectPath": "D:\\project\\TelegramBot\\RamazonTaqvimiBot\\RamazonTaqvimiBot.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\RamazonTaqvimiBot\\RamazonTaqvimiBot\\obj\\",
+        "outputPath": "D:\\project\\TelegramBot\\RamazonTaqvimiBot\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -119,8 +119,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\User\\source\\repos\\RamazonTaqvimiBot\\DataBaseConnection\\DataBaseConnection.csproj": {
-                "projectPath": "C:\\Users\\User\\source\\repos\\RamazonTaqvimiBot\\DataBaseConnection\\DataBaseConnection.csproj"
+              "D:\\project\\TelegramBot\\DataBaseConnection\\DataBaseConnection.csproj": {
+                "projectPath": "D:\\project\\TelegramBot\\DataBaseConnection\\DataBaseConnection.csproj"
               }
             }
           }
