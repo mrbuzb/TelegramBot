@@ -1,0 +1,12 @@
+# Add files/folders to ignore
+
+[Bb]in/
+[Oo]bj/
+![Bb]in/Designs/*
+.vs
+*.suo
+*.user
+
+Design/Text_logo-xd.psd
+
+Xamimg/packages/
