@@ -1,0 +1,23 @@
+# .NET 8.0 SDK ni ishlatish
+FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
+
+# Ishchi katalogni o‘rnatish
+WORKDIR /app
+
+# Loyiha fayllarini nusxalash
+COPY . ./
+
+# NuGet paketlarini yuklash
+RUN dotnet restore
+
+# Loyihani build qilish
+RUN dotnet publish -c Release -o out
+
+# Runtime uchun ASP.NET Core image
+FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS runtime
+
+WORKDIR /app
+COPY --from=build /app/out ./
+
+# Bot yoki web ilovani ishga tushirish
+CMD ["dotnet", "RamazonTaqvimiBot.dll"]
