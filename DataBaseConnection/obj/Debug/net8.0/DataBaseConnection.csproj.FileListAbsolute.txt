@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\RamazonTaqvimiBot\DataBaseConnection\bin\Debug\net8.0\DataBaseConnection.deps.json
+C:\Users\User\source\repos\RamazonTaqvimiBot\DataBaseConnection\bin\Debug\net8.0\DataBaseConnection.runtimeconfig.json
+C:\Users\User\source\repos\RamazonTaqvimiBot\DataBaseConnection\bin\Debug\net8.0\DataBaseConnection.dll
+C:\Users\User\source\repos\RamazonTaqvimiBot\DataBaseConnection\bin\Debug\net8.0\DataBaseConnection.pdb
+C:\Users\User\source\repos\RamazonTaqvimiBot\DataBaseConnection\obj\Debug\net8.0\DataBaseConnection.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\RamazonTaqvimiBot\DataBaseConnection\obj\Debug\net8.0\DataBaseConnection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\RamazonTaqvimiBot\DataBaseConnection\obj\Debug\net8.0\DataBaseConnection.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\RamazonTaqvimiBot\DataBaseConnection\obj\Debug\net8.0\DataBaseConnection.AssemblyInfo.cs
+C:\Users\User\source\repos\RamazonTaqvimiBot\DataBaseConnection\obj\Debug\net8.0\DataBaseConnection.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\RamazonTaqvimiBot\DataBaseConnection\obj\Debug\net8.0\DataBaseConnection.dll
+C:\Users\User\source\repos\RamazonTaqvimiBot\DataBaseConnection\obj\Debug\net8.0\refint\DataBaseConnection.dll
+C:\Users\User\source\repos\RamazonTaqvimiBot\DataBaseConnection\obj\Debug\net8.0\DataBaseConnection.pdb
+C:\Users\User\source\repos\RamazonTaqvimiBot\DataBaseConnection\obj\Debug\net8.0\DataBaseConnection.genruntimeconfig.cache
+C:\Users\User\source\repos\RamazonTaqvimiBot\DataBaseConnection\obj\Debug\net8.0\ref\DataBaseConnection.dll
